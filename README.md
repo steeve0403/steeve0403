@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=steeve0403&theme=prussian&column=7&row=1&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+</div>
 <hr>
