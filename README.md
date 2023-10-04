@@ -23,3 +23,9 @@ Here are some ideas to get you started:
   
   <img src="https://github-readme-stats.vercel.app/api?username=steeve0403&show_icons=true&theme=prussian" alt="Github Stats"/>
 </p>
+
+<hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=steeve0403&theme=prussian&column=7&row=1&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<hr>
