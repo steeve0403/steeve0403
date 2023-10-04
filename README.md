@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 </picture>
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=steeve0403&show_icons=true&theme=graywhite" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=steeve0403&show_icons=true&theme=prussian" alt="Github Stats"/>
 </p>
