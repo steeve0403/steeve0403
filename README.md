@@ -1,6 +1,8 @@
 ### Hi there, I'm Steeve Z. 👋
 
 <h3 align="center">Passionate about web & app development.</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steeve0403" alt="steeve0403" /></a> </p>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steeve0403&" alt="steeve0403" /></p>
 <hr>
 <p align="center">
@@ -29,6 +31,3 @@
         <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
     </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steeve0403" alt="steeve0403" /></a> </p>
-
