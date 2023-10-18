@@ -12,7 +12,7 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=steeve0403&theme=algolia&no-frame=true&margin-w=15">
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steeve0403&" alt="steeve0403" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steeve0403&theme=dark" alt="steeve0403" /></p>
 <hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=steeve0403&show_icons=true&theme=transparent" alt="Github Stats"/>
