@@ -3,7 +3,7 @@
 <h3 align="center">Passionate about web & app development.</h3>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=steeve0403&theme=algolia">
+    <img src="https://github-profile-trophy.vercel.app/?username=steeve0403&theme=algolia&no-frame=true&margin-w=15">
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steeve0403&" alt="steeve0403" /></p>
 <hr>
