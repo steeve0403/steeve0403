@@ -1,8 +1,9 @@
 ### Hi there, I'm Steeve Z. 👋
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=steeve0403&style=flat-square&color=yellow" alt="" width="15%" height="15%"/>
-<img src="https://img.shields.io/github/stars/steeve0403?style=plastic" alt="" width="8%" />
+<img src="https://komarev.com/ghpvc/?username=steeve0403&style=flat-square&color=yellow" alt="" width="12%" height="15%"/>
+<img src="https://img.shields.io/github/stars/steeve0403?style=plastic" alt="" width="8%"/>
 </div>
+<hr>
 <h3 align="center">Passionate about web & app development.</h3>
 
 <p align="center">
