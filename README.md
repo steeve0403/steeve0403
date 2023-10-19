@@ -1,27 +1,30 @@
 ### Hi there, I'm Steeve Z. 👋
-<p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+GitHub+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
-</p>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=steeve0403&style=flat-square&color=yellow" alt="" width="12%" height="15%"/>
-<img src="https://img.shields.io/github/stars/steeve0403?style=plastic" alt="" width="8%"/>
-</div>
+<section align="center">
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+GitHub+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊" alt="Dynamic description text"></a>
+</section>
+<section align="center">
+    <img src="https://komarev.com/ghpvc/?username=steeve0403&style=flat-square&color=yellow" alt="" width="12%" height="15%"/>
+    <img src="https://img.shields.io/github/stars/steeve0403?style=plastic" alt="" width="8%"/>
+</section>
 <hr>
 <h3 align="center">Passionate about web & app development.</h3>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=steeve0403&theme=algolia&no-frame=true&margin-w=15">
-</p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steeve0403&theme=dark" alt="steeve0403" /></p>
+<section>
+    <img src="https://github-profile-trophy.vercel.app/?username=steeve0403&theme=algolia&no-frame=true&margin-w=15" alt="statistics in the form of trophies from my github profile">
+</section>
+<section >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=steeve0403&theme=dark" alt="Statistics of my github contributions" />
+</section>
 <hr>
-<p align="center">
+<section>
   <img src="https://github-readme-stats.vercel.app/api?username=steeve0403&show_icons=true&theme=transparent" alt="Github Stats"/>
-</p>
+</section>
 <hr>
-<p align='center'><img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=steeve0403&&hide=TSQL&layout=compact&langs_count=20'/></p>
+<section align='center'>
+    <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=steeve0403&&hide=TSQL&layout=compact&langs_count=20'/>
+</section>
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages & Tools:</h3>
     <p align="center" style="background-color:white; padding:20px; border-radius:5px"> 
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
