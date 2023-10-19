@@ -17,7 +17,7 @@
 </section>
 <hr>
 <section align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=steeve0403&show_icons=true&theme=transparent" alt="Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=steeve0403&show_icons=true&theme=transparent&count_private=true" alt="Github Stats"/>
 </section>
 <hr>
 <section align='center'>
