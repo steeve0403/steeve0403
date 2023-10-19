@@ -11,11 +11,11 @@
 <section>
     <img src="https://github-profile-trophy.vercel.app/?username=steeve0403&theme=algolia&no-frame=true&margin-w=15" alt="statistics in the form of trophies from my github profile">
 </section>
-<section >
+<section align='center'>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=steeve0403&theme=dark" alt="Statistics of my github contributions" />
 </section>
 <hr>
-<section>
+<section align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=steeve0403&show_icons=true&theme=transparent" alt="Github Stats"/>
 </section>
 <hr>
