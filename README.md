@@ -9,19 +9,19 @@
 <hr>
 <h3 align="center">Passionate about web & app development.</h3>
 <section>
-    <img src="https://github-profile-trophy.vercel.app/?username=steeve0403&theme=algolia&no-frame=true&margin-w=15" alt="statistics in the form of trophies from my github profile">
+    <img src="https://github-profile-trophy.vercel.app/?username=steeve0403&theme=tokyonight&no-frame=true&margin-w=15" alt="statistics in the form of trophies from my github profile">
 </section>
 <hr>
 <section align='center'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=steeve0403&theme=dark" alt="Statistics of my github contributions" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=steeve0403&theme=tokyonight" alt="Statistics of my github contributions" />
 </section>
 <hr>
 <section align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=steeve0403&show_icons=true&theme=transparent&count_private=true" alt="Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=steeve0403&show_icons=true&theme=tokyonight&count_private=true" alt="Github Stats"/>
 </section>
 <hr>
 <section align='center'>
-    <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=steeve0403&&hide=TSQL&layout=compact&langs_count=20'/>
+    <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=steeve0403&theme=tokyonight&hide=TSQL&layout=compact&langs_count=20'/>
 </section>
 <hr>
 
