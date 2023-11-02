@@ -28,7 +28,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,md,css,sass,js,ts,py,react,nextjs,nodejs,django,flask,git,mysql,postman,vite,figma&theme=dark&perline=6" />
-        <img src="https://skillicons.dev/icons?i=js,html,css,django,figma,flask,git,md,mysql,nextjs,nodejs,postman,py,react,sass,ts,vite&theme=dark&perline=6" />
   </a>
 </p>
 
