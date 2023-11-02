@@ -19,7 +19,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=steeve0403&hide=prs&count_private=true&show_icons=true&hide_border=true&theme=radical" alt="Github stats" style="max-width: 100%;">      
       </a>
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeve0403&hide=prs&hide_border=true&theme=radical&count_private=true&hide_border=trueline_height=20&langs_count=100&" style="max-width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeve0403&hide=prs&hide_border=true&theme=radical&count_private=true&langs_count=100&layout=compact" style="max-width: 100%;">
       </a>
     </p>
   </details>
@@ -27,8 +27,9 @@
 <hr>
 <section align="center">
     <h3 align="center">🏆  My trophies on Github : </h3>
-    <img src="https://github-trophies.vercel.app/?username=steeve0403&title=Stars,Followers,MultiLanguage,Commits,Repositories,Issues
-                &theme=radical&no-frame=true&no-bg=true&column=6&margin-w=15&" alt="statistics in the form of trophies from my github profile">
+    <a href="#">
+      <img src="https://github-trophy.vercel.app/?username=steeve0403&title=Stars,Followers,MultiLanguage,Commits,Repositories,Issues&theme=radical&no-frame=true&column=6&margin-w=15&" alt="statistics in the form of trophies from my github profile">
+    </a>
 </section>
 <hr>
 <section align='center'>
@@ -40,7 +41,6 @@
   <h3 align="left">🌐 Languages & Tools:</h3>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img align='center' src="https://skillicons.dev/icons?i=html,md,css,sass,js,ts,py,react,nextjs,nodejs,django,flask,git,mysql,postman,vite,figma&theme=dark&perline=9" />
-  </a>
+    <img align='center' src="https://skillicons.dev/icons?i=html,md,css,sass,js,ts,py,react,nextjs,nodejs,django,flask,git,mysql,postman,vite,figma&theme=dark&perline=9"/>
   </p>
 </section>
