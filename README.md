@@ -26,8 +26,8 @@
 </section>
 <hr>
 <section align="center">
-    <h3 align="center"> My trophies on Github : </h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=steeve0403&title=Stars,Followers,MultiLanguage,Commits,Repositories,Issues
+    <h3 align="center">🏆  My trophies on Github : </h3>
+    <img src="https://github-trophies.vercel.app/?username=steeve0403&title=Stars,Followers,MultiLanguage,Commits,Repositories,Issues
                 &theme=radical&no-frame=true&no-bg=true&column=6&margin-w=15&" alt="statistics in the form of trophies from my github profile">
 </section>
 <hr>
