@@ -24,7 +24,9 @@
     <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=steeve0403&theme=tokyonight&hide=TSQL&layout=compact&langs_count=20'/>
 </section>
 <hr>
-
+<h3 align="left">Languages & Tools:</h3>
+[![My Skills](https://skillicons.dev/icons?i= js, html, css, django, figma, flask, git, md, mysql, nextjs, nodejs, postman, py, react, sass, ts, vite,  )](https://skillicons.dev)
+<hr>
 <h3 align="left">Languages & Tools:</h3>
     <p align="center" style="background-color:#1A1B27; padding:20px; border-radius:5px"> 
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
