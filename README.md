@@ -25,7 +25,7 @@
 </section>
 <hr>
 <h3 align="left">Languages & Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i= js,html,css,django,figma,flask,git,md,mysql,nextjs,nodejs,postman,py,react,sass,ts,vite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i= js,html,css,django,figma,flask,git,md,mysql,nextjs,nodejs,postman,py,react,sass,ts,vite&theme=dark&perline=6)](https://skillicons.dev)
 <hr>
 <h3 align="left">Languages & Tools:</h3>
     <p align="center" style="background-color:#1A1B27; padding:20px; border-radius:5px"> 
