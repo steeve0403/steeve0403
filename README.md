@@ -25,10 +25,10 @@
   </details>
 </section>
 <hr>
-<section align="center">>
+<section align="center">
     <h3 align="center"> My trophies on Github : </h3>
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=steeve0403&title=Stars,Followers,MultiLanguage,Commits,Repositories,Issues
-&theme=tokyonight&no-frame=true&margin-w=15&" alt="statistics in the form of trophies from my github profile">
+    <img src="https://github-profile-trophy.vercel.app/?username=steeve0403&title=Stars,Followers,MultiLanguage,Commits,Repositories,Issues
+&theme=shadow&no-frame=true&margin-w=15&" alt="statistics in the form of trophies from my github profile">
 </section>
 <hr>
 <section align='center'>
