@@ -25,6 +25,11 @@
 </section>
 <hr>
 <h3 align="left">Languages & Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,django,figma,flask,git,md,mysql,nextjs,nodejs,postman,py,react,sass,ts,vite&theme=dark" />
+  </a>
+</p>
 [![My Skills](https://skillicons.dev/icons?i= js,html,css,django,figma,flask,git,md,mysql,nextjs,nodejs,postman,py,react,sass,ts,vite&theme=dark&perline=6)](https://skillicons.dev)
 <hr>
 <h3 align="left">Languages & Tools:</h3>
