@@ -16,10 +16,10 @@
     </summary>
     <p dir="auto">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=steeve0403&theme=radical&count_private=true&hide_border=true&line_height=20&show_icons=true&include_all_commits=true" alt="Github stats" style="max-width: 100%;">      
+        <img src="https://github-readme-stats.vercel.app/api?username=steeve0403&hide=prs&count_private=true&show_icons=true&hide_border=true&theme=radical" alt="Github stats" style="max-width: 100%;">      
       </a>
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeve0403&hide_border=true&theme=radical&count_private=true&hide_border=trueline_height=20&langs_count=100&" style="max-width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeve0403&hide=prs&hide_border=true&theme=radical&count_private=true&hide_border=trueline_height=20&langs_count=100&" style="max-width: 100%;">
       </a>
     </p>
   </details>
@@ -33,7 +33,7 @@
 <hr>
 <section align='center'>
     <h3 align="left">📊 My general statistics : </h3>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=steeve0403&theme=tokyonight" alt="Statistics of my github contributions" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=steeve0403&theme=radical" alt="Statistics of my github contributions" />
 </section>
 
 <section>
