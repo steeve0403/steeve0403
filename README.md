@@ -16,10 +16,10 @@
     </summary>
     <p dir="auto">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=steeve0403&theme=shadow_red&count_private=true&hide_border=trueline_height=20&show_icons=true&include_all_commits=true" alt="Github stats" style="max-width: 100%;">      
+        <img src="https://github-readme-stats.vercel.app/api?username=steeve0403&theme=radical&count_private=true&hide_border=true&line_height=20&show_icons=true&include_all_commits=true" alt="Github stats" style="max-width: 100%;">      
       </a>
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeve0403&layout=compact&theme=shadow_red&count_private=true&hide_border=trueline_height=20&langs_count=100&" style="max-width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeve0403&hide_border=true&theme=radical&count_private=true&hide_border=trueline_height=20&langs_count=100&" style="max-width: 100%;">
       </a>
     </p>
   </details>
@@ -28,7 +28,7 @@
 <section align="center">
     <h3 align="center"> My trophies on Github : </h3>
     <img src="https://github-profile-trophy.vercel.app/?username=steeve0403&title=Stars,Followers,MultiLanguage,Commits,Repositories,Issues
-&theme=shadow&no-frame=true&margin-w=15&" alt="statistics in the form of trophies from my github profile">
+                &theme=radical&no-frame=true&no-bg=true&column=6&margin-w=15&" alt="statistics in the form of trophies from my github profile">
 </section>
 <hr>
 <section align='center'>
