@@ -40,7 +40,7 @@
 <section>
   <h3 align="left">🌐 Languages & Tools:</h3>
   <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img align='center' src="https://skillicons.dev/icons?i=html,md,css,sass,js,ts,py,react,nextjs,nodejs,django,flask,git,mysql,postman,vite,figma&theme=dark&perline=9"/>
   </p>
 </section>
